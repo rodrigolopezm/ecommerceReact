@@ -1,0 +1,28 @@
+.paquetes{
+  background: silver;
+  height:100%;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.clase{
+  width: 100%;
+  box-sizing: content-box;
+}
+
+.cardSize{
+  height: 400px;
+}
+
+.alignRight{
+  text-align: right;
+}
+
+.font{
+  
+}
+
+.barra{
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
